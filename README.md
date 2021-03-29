@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+by [Sandra Spighel](https://www.linkedin.com/in/sandraspighel/) - [HotSauceNinja](https://github.com/HotSauceNinja)
 
-## Available Scripts
+![Photo](#)
 
-In the project directory, you can run:
+👉 [<b>TRY ME</b>](#) 👈
 
-### `yarn start`
+# Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Short Description](#short-description)
+- [Background](#background)
+- [Technology Used](#technology-used)
+- [Install](#install)
+- [Project Development](#project-development)
+  - [Initial Idea](#initial-idea)
+  - [Set Up](#set-up)
+  - [Styling](#styling)
+  - [Font](#font)
+  - [Work](#work)
+  - [Contact](#Contact)
+  - [Media Queries](#media-queries)
+- [Final Thoughts & Project Wrap](#final-thoughts-and-project-wrap)
+  - [Wins](#wins)
+  - [Challenges / Bugs](#challenges-/-bugs)
+  - [Key Learnings](#key-learnings)
+- [License](#license)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Short Description
 
-### `yarn test`
+Portfolio website presenting photography work by Mihail Ursu.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Background
 
-### `yarn build`
+This is a comissioned project to deliver a simple photography portfolio showcasing the work of a visual artist.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Built using [React](https://reactjs.org/).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Install
 
-### `yarn eject`
+The website is mobile-friendly and accessible through the web browser.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Installation Steps:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Clone or download the repo
+- Install dependencies: <code>yarn</code>
+- Start server: <code>yarn start</code>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Project Development
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Initial Idea
 
-## Learn More
+### Set Up
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+I started with setting up a new React project, linking to GitHub and installing react-router-dom package to allow navigation between components.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Styling
 
-### Code Splitting
+I will store all styling into a separate folder, styles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Font
 
-### Analyzing the Bundle Size
+## Work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
+## Media Queries
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+# Final Thoughts & Project Wrap
 
-### Advanced Configuration
+## Wins
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Challenges
 
-### Deployment
+## Key Learnings
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# License
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT
